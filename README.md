@@ -1,7 +1,7 @@
 # Movie_Recommend_System
 
 ### Description
-This is the project for machine learning courses.
+This is the project for machine learning course.
 
 ### File Explanation
 The repo consists of the following files
